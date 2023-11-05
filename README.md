@@ -19,7 +19,10 @@
 | Square root  | 2766 | 132   | 14    | 16     |     1      |  7.013      |  426.92      |  
 
 #### Post Synthesis Funtional Simulations  
-
+![image](https://github.com/V-Pranathi/FPU_PICORV32/assets/140998470/ec78c9f9-bb65-46fd-9eb8-601c4cdcee5c)  
+|Hexa number | Decimal number |
+|------------|----------------|
+| 32'h436de58e| 237.8967   |
 
 ### References  
 - https://digitalsystemdesign.in/fast-computation-square-root-and-its-reciprocal/
