@@ -171,6 +171,11 @@ Observed Output in IEEE-754 Single Precision Format
 ### References  
 - https://digitalsystemdesign.in/fast-computation-square-root-and-its-reciprocal/
 
+# Files included
+
+* Floating point Matrix multiplication - sysarr, images
+* Floating point sqaure root - sqrt.v, sqrt_tb.v
+  
 ## Contributors
 
 Ayyappa
