@@ -1,8 +1,9 @@
 # FPU_PICORV32
 ## Table Of Contents
-
+- [Square root of a floating point number](#square-root-of-a-floating-point-number)
+  
 - [References](#references)
-# Square root of a floating point number
+### Square root of a floating point number
 
 * An iterative approach using Newton_raphson Method is proposed to find the square root of a floating point.
 * We will be finding the square root of 1/N and multipling it with N at the end to get the square root of N.
