@@ -102,6 +102,9 @@ The output of the Matrices Multiplication namely D is collected at c35, c45, c55
 | -------- | ------- | ------ | ----- | ------ | ---------- | ----------- | ------------ |
 | Square root  | 2766 | 132   | 14    | 16     |     1      |  7.013      |  426.92      |  
 
+
+**Timing and utilization summary**
+
 ![image](https://github.com/V-Pranathi/FPU_PICORV32/assets/77966806/22d77194-9951-4a0b-a4b0-ca99eb20f092)
 
 ![image](https://github.com/V-Pranathi/FPU_PICORV32/assets/77966806/e87bba3f-fc4d-405b-822b-fa6de3c9d3f2)
