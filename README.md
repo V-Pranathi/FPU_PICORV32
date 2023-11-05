@@ -19,11 +19,14 @@
 | -------- | ------- | ------ | ----- | ------ | ---------- | ----------- | ------------ |
 | Square root  | 2766 | 132   | 14    | 16     |     1      |  7.013      |  426.92      |  
 
-#### Post Synthesis Funtional Simulations  
+#### Post Synthesis Functional Simulations  
 ![image](https://github.com/V-Pranathi/FPU_PICORV32/assets/140998470/ec78c9f9-bb65-46fd-9eb8-601c4cdcee5c)  
 |Hexa number | Decimal number |
 |------------|----------------|
 | 32'h436de58e| 237.8967   |
+
+#### Post Syntheis Schematic 
+![image](https://github.com/V-Pranathi/FPU_PICORV32/assets/140998763/fa1eccaa-c2da-4fcf-8861-8e9b23dc60b4)
 
 ## Matrix Multiplication of a Floating Point Number
 ## Parameterised matrix multiplication using systolic arrays  
