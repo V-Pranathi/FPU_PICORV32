@@ -174,8 +174,11 @@ Observed Output in IEEE-754 Single Precision Format
 ## Contributors
 
 Ayyappa
+
 Pranathi
+
 Niharika
+
 Rachana
 
   
