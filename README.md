@@ -2,7 +2,7 @@
 ## Table Of Contents
 - [Square root of a floating point number](#square-root-of-a-floating-point-number)
   - [Post Synthesis Funtional Simulations](#post-synthesis-funtional-simulations)
-- [Matrix Multiplication of a floating point number](#matrix-multiplication-of-floating-point-number)
+- [Matrix Multiplication of a floating point number](#matrix-multiplication-of-a-floating-point-number)
 - [References](#references)
 ### Square root of a floating point number
 
@@ -11,7 +11,7 @@
 * This will be giving us an algorithm which does not need a floating point division thereby optimising the implementation of finding square root of floating point numbers using Newton Rapson's Method.
 * The below equations gives us more detailed explanation of the methodology used for implementing the square root of the number:
     
-![image](https://github.com/V-Pranathi/FPU_PICORV32/assets/140998470/f2162eba-ac3e-44b7-84a8-18d7abfd3861)  
+![image](https://github.com/V-Pranathi/FPU_PICORV32/assets/140998763/d325341a-caa2-49a4-9d03-aa801e976d9b)
 
 **Resource Utilization**  
 
