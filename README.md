@@ -1,7 +1,8 @@
 # FPU_PICORV32
 ## Table Of Contents
 - [Square root of a floating point number](#square-root-of-a-floating-point-number)
-  - [Post Synthesis Funtional Simulations](#post-synthesis-funtional-simulations) 
+  - [Post Synthesis Funtional Simulations](#post-synthesis-funtional-simulations)
+- [Matrix Multiplication of a floating point number](#matrix-multiplication-of-floating-point-number)
 - [References](#references)
 ### Square root of a floating point number
 
@@ -24,8 +25,8 @@
 |------------|----------------|
 | 32'h436de58e| 237.8967   |
 
+## Matrix Multiplication of a Floating Point Number
 ## Parameterised matrix multiplication using systolic arrays  
-
 
 The chip design for a Systolic Array which can multiply two parametrised for N*M Matrices of IEEE 754 single precision floating points. This model consists of Processing Elements(PE) and few delay blocks.
 
