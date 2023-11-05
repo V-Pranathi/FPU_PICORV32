@@ -71,7 +71,8 @@ The output of the Matrices Multiplication namely D is collected at c35, c45, c55
 
  <p align="center">
   <img  src="https://github.com/Ayyappa1911/iiitb_sysarray/blob/main/Images/Input_systolic.png">
-</p>
+</p>  
+
 ### References  
 - https://digitalsystemdesign.in/fast-computation-square-root-and-its-reciprocal/
   
