@@ -1,4 +1,4 @@
-# FPU_PICORV32
+# RISC-ers_FPU_PICORV32
 ## Table Of Contents
 - [Square root of a floating point number](#square-root-of-a-floating-point-number)
   - [Post Synthesis Functional Simulations](#post-synthesis-funtional-simulations)
@@ -170,4 +170,12 @@ Observed Output in IEEE-754 Single Precision Format
 
 ### References  
 - https://digitalsystemdesign.in/fast-computation-square-root-and-its-reciprocal/
+
+## Contributors
+
+Ayyappa
+Pranathi
+Niharika
+Rachana
+
   
