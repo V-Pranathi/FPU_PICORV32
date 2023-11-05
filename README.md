@@ -15,9 +15,18 @@
 
 **Resource Utilization**  
 
+![image](https://github.com/V-Pranathi/FPU_PICORV32/assets/140998763/e527379b-0da5-4263-8486-e5d92b7a1da9)
+
 | Design   |  LUTs   | Regs   |  MUXs |  DSPs  |  BUFGCTRL  |  Frequency  |  ADP * 10^4  | 
 | -------- | ------- | ------ | ----- | ------ | ---------- | ----------- | ------------ |
 | Square root  | 2766 | 132   | 14    | 16     |     1      |  7.013      |  426.92      |  
+
+**Timing Report**
+
+The clock constraints are being set to 100MHz.
+
+![image](https://github.com/V-Pranathi/FPU_PICORV32/assets/140998763/d2e7b82f-77e1-4220-9110-09ca6caf0633)
+
 
 #### Post Synthesis Functional Simulations  
 ![image](https://github.com/V-Pranathi/FPU_PICORV32/assets/140998470/ec78c9f9-bb65-46fd-9eb8-601c4cdcee5c)  
