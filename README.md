@@ -15,7 +15,7 @@
 
 **Resource Utilization**  
 
-![image](https://github.com/V-Pranathi/FPU_PICORV32/assets/140998763/e527379b-0da5-4263-8486-e5d92b7a1da9)
+![image](https://github.com/V-Pranathi/FPU_PICORV32/assets/140998763/c7531892-7fb3-402f-b73c-bf5d1f69882c)
 
 | Design   |  LUTs   | Regs   |  MUXs |  DSPs  |  BUFGCTRL  |  Frequency  |  ADP * 10^4  | 
 | -------- | ------- | ------ | ----- | ------ | ---------- | ----------- | ------------ |
