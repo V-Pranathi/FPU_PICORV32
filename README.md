@@ -1,7 +1,7 @@
 # FPU_PICORV32
 ## Table Of Contents
 
-
+- [References](#references)
 # Square root of a floating point number
 
 * An iterative approach using Newton_raphson Method is proposed to find the square root of a floating point.
@@ -16,4 +16,6 @@
 | Square root  | 2766 | 132   | 14    | 16     |     1      |  7.013      |  426.92      |
 
 
-
+### References  
+- https://digitalsystemdesign.in/fast-computation-square-root-and-its-reciprocal/
+  
