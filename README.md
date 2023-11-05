@@ -1,7 +1,7 @@
 # FPU_PICORV32
 ## Table Of Contents
 - [Square root of a floating point number](#square-root-of-a-floating-point-number)
-  
+  - [Post Synthesis Funtional Simulations](#post-synthesis-funtional-simulations) 
 - [References](#references)
 ### Square root of a floating point number
 
@@ -12,9 +12,13 @@
     
 ![image](https://github.com/V-Pranathi/FPU_PICORV32/assets/140998470/f2162eba-ac3e-44b7-84a8-18d7abfd3861)  
 
+**Resource Utilization**  
+
 | Design   |  LUTs   | Regs   |  MUXs |  DSPs  |  BUFGCTRL  |  Frequency  |  ADP * 10^4  | 
 | -------- | ------- | ------ | ----- | ------ | ---------- | ----------- | ------------ |
-| Square root  | 2766 | 132   | 14    | 16     |     1      |  7.013      |  426.92      |
+| Square root  | 2766 | 132   | 14    | 16     |     1      |  7.013      |  426.92      |  
+
+#### Post Synthesis Funtional Simulations  
 
 
 ### References  
